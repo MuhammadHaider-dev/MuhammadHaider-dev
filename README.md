@@ -1,6 +1,6 @@
-# Software Engineer
+# Software Developer
 
-Software engineer with 10+ years of experience building scalable applications across web, mobile, backend systems, and cloud environments. Focused on clean architecture, performance, automation, and production-grade software systems.
+Software developer with 10+ years of experience building scalable applications across web, mobile, backend systems, and cloud environments. Focused on clean architecture, performance, automation, and production-grade software systems.
 
 ---
 
